@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Project3-ntran35</string>
+    <string-array name="artists">
+        <item>Artist1</item>
+        <item>Artist2</item>
+        <item>Artist3</item>
+        <item>Artist4</item>
+    </string-array>
+</resources>

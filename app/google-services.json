@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1049942301512",
+    "firebase_url": "https://nail-booking-default-rtdb.firebaseio.com",
+    "project_id": "nail-booking",
+    "storage_bucket": "nail-booking.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049942301512:android:d818fb7d41a4f5ed22317d",
+        "android_client_info": {
+          "package_name": "com.example.project3_ntran35"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1049942301512-n242ghpr7l9nan8as64kq6mtlg9fq4qk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjxn-2fKlxe6Y4mdim2SX6PtxAgEDMH0g"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1049942301512-n242ghpr7l9nan8as64kq6mtlg9fq4qk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
